@@ -1,2 +1,3 @@
 # number-evaluator
-  This program reads the file numbers.txt and calculates the smallest and largest values along with the average. The file is then processed again to count the number of values above and below the average. Numbers.txt can be modified for testing purposes 
+    For testing purposes, you can modify numbers.txt through you compiler or using the online compiler [repl.it] (https://repl.it). The program should work with any number of integers. Do not test your code with hard-coded data.
+    
